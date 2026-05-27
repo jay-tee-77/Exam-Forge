@@ -1,0 +1,11 @@
+{
+  "name": "examforge",
+  "version": "1.0.0",
+  "description": "ExamForge - AI Exam Prep by Jay Tee",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
